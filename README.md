@@ -1,3 +1,5 @@
+The following code is a simple example of using Pyspark to read and write into MysqlDB. Attached are the Customers, Order and Discount Tables Mock CSV and the code will calculate the total amount each customer spent after discount
+
 Set up db_config.yaml with the following details:
 
 mysql:
